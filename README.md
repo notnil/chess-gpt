@@ -100,7 +100,8 @@ ChatGPT played Nf6 because ...Nf6 is a solid move that develops a knight to a go
 
 # Example Game
 
-Lichess Direct Link: https://lichess.org/6aGY4ULm
+Lichess Game Link: https://lichess.org/6aGY4ULm
+Lichess Study Link: https://lichess.org/study/WU0i6otP
 ![Chess Game](https://lichess1.org/game/export/gif/white/6aGY4ULm.gif?theme=brown&piece=cburnett)
 
 
