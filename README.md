@@ -1,6 +1,6 @@
 # chess-gpt
 
-Welcome to Chess-GPT! This is a not-so-powerful chess bot that utilizes OpenAI's GPT-3.5-turbo API to provide you with an interesting chess playing experience. Watch it generate extremely confident explanations for moves while it blunders like a sub 500 ELO player!
+Welcome to Chess-GPT! This is a not-so-powerful chess bot that utilizes OpenAI's GPT-3.5-turbo API to provide you with an interesting chess playing experience. Watch it generate extremely confident explanations for moves while it blunders like a sub 500 ELO noob!
 
 # Table of Contents
 
@@ -31,7 +31,6 @@ Create a .env file in the root directory and add the following line:
 ```bash
 OPENAI_API_KEY=your_api_key_here
 ```
-Replace your_api_key_here with your actual OpenAI API key.
 
 # Usage
 
